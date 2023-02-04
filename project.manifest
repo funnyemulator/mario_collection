@@ -1,9 +1,9 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.0/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.0/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.0/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.0/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.0/",
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.1/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.1/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.1/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.1/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v1.1.1/",
 	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "2714d95a7a13882881d3923adecdfbf2"
+			"md5": "9981a3bf40f0f95f891162862b7e4715"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -5225,7 +5225,7 @@
 			"md5": "c617343a55c2b602dd750047cede14be"
 		},
 		"res/UI/StartupScene_Mario.json": {
-			"md5": "4be56a91fe47a05a67a11fc983f8300f"
+			"md5": "540e13a61d4a6ca4ee5522032c3199a4"
 		},
 		"res/UI/StartupScene_NESFC.json": {
 			"md5": "7382f48a8f0671ec11cf67fd910ac560"
@@ -5744,10 +5744,10 @@
 			"md5": "a11857973e4c06cbc4a7a45cf9df99ce"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "17f65f917e0441dc7483345365e64f3f"
+			"md5": "18a8ddfb8509981265ff7b39fc8fc473"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
-			"md5": "717ba7d43eb0e58e3056d79e77019072"
+			"md5": "3bd93570806afec15d594547d78fed25"
 		},
 		"src/NES/Home/ListRomCommon.js": {
 			"md5": "ec2c77dad038aa9258cf6ea346cf02bf"
@@ -5780,7 +5780,7 @@
 			"md5": "ac1996dc79a6c3cfe92d37bb5e1b4703"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "b41f4c5e1d4ac4a39f75491ecf4e7a5a"
+			"md5": "aec7389041f79bd333f837445ac120cf"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "7c011e76000cab79d022a3b8cfdc2ae5"
@@ -5837,7 +5837,7 @@
 			"md5": "da33cc8f44cb962c90e2d317ec93d173"
 		},
 		"src/resource.js": {
-			"md5": "befa2c58ee9326088d08db911d59c77e"
+			"md5": "fd06dac350a80e622e7af681735e9d54"
 		}},
 	"group" : {},
     "searchPaths" : []
