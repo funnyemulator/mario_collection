@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v2.1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v2.1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/mario_collection/v2.1/",
-	"version" : "3",
+	"version" : "4",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "630a8ca655c8e9b73e37cd0b858d5782"
+			"md5": "47b623d9ff3a1cd7ed2dad86589aa601"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -5261,7 +5261,7 @@
 			"md5": "997b17233a31c760bbc2e00091addb60"
 		},
 		"res/UI/StartupScene_GBA.json": {
-			"md5": "65b5edb7cb7719e431fe942cbf404bfc"
+			"md5": "9e8fe37361364ec4e590932e2d93886b"
 		},
 		"res/UI/StartupScene_IslandAdventure.json": {
 			"md5": "1dd29d69fb5ea008559c49aa0b1f97eb"
@@ -5687,7 +5687,7 @@
 			"md5": "35bb8f53cc21d2d600101ebd3fc7ad9f"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "468ecf98115f3509278ef61602e54ebc"
+			"md5": "df2ccc594a3995fbaabc384d8b614535"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "e943e77a0f1944259e0dc8f1b1a766bd"
@@ -5789,13 +5789,13 @@
 			"md5": "b5e54ca678dc4b43dafc0d95057029ac"
 		},
 		"src/NES/Game/GameLayer.js": {
-			"md5": "9d4abf4ca6cf1f967522216cc6c794b4"
+			"md5": "c1ce1b83ba8958f3b2f36aa77943e639"
 		},
 		"src/NES/Game/GameLayerMAME.js": {
 			"md5": "efdd60665cd510f505026e6cf1fb23db"
 		},
 		"src/NES/Game/GameLayerN64.js": {
-			"md5": "947a519367da9d6969147d5d6cae5d2e"
+			"md5": "87f813d203042733cb901231bed2d49b"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
 			"md5": "8fd4282a6e11ca20553f2f9d02a8968d"
@@ -5894,7 +5894,7 @@
 			"md5": "db152d2c52b1d698698fd93f57f7fa6c"
 		},
 		"src/NES/tracking.js": {
-			"md5": "40ad3d45813ab489e46b78a0d6c329b8"
+			"md5": "f3a04f9a9e59e2010e5ee21f1f2f91c2"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "ddf95796444ad3e7c9299de2f15606fd"
@@ -5915,7 +5915,7 @@
 			"md5": "da33cc8f44cb962c90e2d317ec93d173"
 		},
 		"src/resource.js": {
-			"md5": "cae9e73b6a766d75a5a54fbb8e00a988"
+			"md5": "7828cba652da3ca10cd2292e3bcf4f77"
 		}},
 	"group" : {},
     "searchPaths" : []
